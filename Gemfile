@@ -13,3 +13,6 @@ gem 'pg'
 
 # Use rake
 gem 'rake'
+
+# Use unicorn as the application server
+gem 'unicorn', platform: :ruby
